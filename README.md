@@ -3,7 +3,6 @@ The codes for our paper "**HACAN: Hybrid Attention-Driven Cross-Layer Alignment 
 
 ## Introduction
 In the field of image-text matching and cross-modal retrieval, while there have been advancements in fine-grained retrieval techniques, current methods often focus solely on the direct connections between visual elements in images and textual keywords. This focus overlooks the complex semantic interactions between modalities, at both local and global levels, leading to semantic ambiguity.
-
 <div align=center>
 <img src="overview.png" height="45%" width="100%">
 </div>
