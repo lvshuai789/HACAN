@@ -14,7 +14,7 @@ We introduce a **H**ybrid **A**ttention-Driven **C**ross-layer **A**lignment **N
 We recommended to use Anaconda for the following packages.
 - python >= 3.8
 - [torch](http://pytorch.org/) (>=1.8.1)
-- [lightning](https://lightning.ai/)(1.8.0)
+- [lightning](https://lightning.ai/) (1.8.0)
 - [transformers](https://huggingface.co/docs/transformers) (4.24.0)
 - torchvision
 - opencv-python
