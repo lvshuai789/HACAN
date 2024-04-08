@@ -15,7 +15,7 @@ We recommended to use Anaconda for the following packages.
 - opencv-python
 
 ### Data
-The experimental dataset can be downloaded from [Flickr30K](http://shannon.cs.illinois.edu/DenotationGraph/) and [MSCOCO](http://mscoco.org/). The pre-trained model can be downloaded from here. We refer to the path of extracted files as `$DATASET_PATH`and the storage location of the pre-trained model as `$MODEL_PATH`.
+The experimental dataset can be downloaded from [Flickr30K](http://shannon.cs.illinois.edu/DenotationGraph/) and [MSCOCO](http://mscoco.org/). We will subsequently release the experimental pre-trained model for public access. We refer to the path of extracted files as `$DATASET_PATH`and the storage location of the pre-trained model as `$MODEL_PATH`.
 
 ## Evaluation
 Run `run.py` to evaluate the trained models on Flickr30K or MSCOCO.
