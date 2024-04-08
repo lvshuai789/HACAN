@@ -4,7 +4,7 @@ The codes for our paper "**HACAN: Hybrid Attention-Driven Cross-Layer Alignment 
 ## Introduction
 In the field of image-text matching and cross-modal retrieval, while there have been advancements in fine-grained retrieval techniques, current methods often focus solely on the direct connections between visual elements in images and textual keywords. This focus overlooks the complex semantic interactions between modalities, at both local and global levels, leading to semantic ambiguity.
 
-<img src="overview.png" height="45%" width="100%">
+<img src="overview.png" height="50%" width="100%">
 
 We introduce a **H**ybrid **A**ttention-Driven **C**ross-layer **A**lignment **N**etwork (**HACAN**), leveraging BERT and ConvNeXt to merge global and local strategies effectively, addressing semantic ambiguity and alignment issues. By proposing a global contrastive divergence loss, HACAN boosts the complementarity between vision and language, thereby enhancing the model's capability to distinguish between positive and negative samples. By incorporating hierarchical inference strategies, HACAN significantly improves retrieval efficiency. On the Flickr30K and MS-COCO datasets, HACAN surpasses state-of-the-art image-text retrieval methods by a margin of 5% to 8% in the Rsum metric.
 
