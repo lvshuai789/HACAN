@@ -18,7 +18,7 @@ We recommended to use Anaconda for the following packages.
 
 
 ### Data
-The experimental dataset can be downloaded from [Flickr30K](http://shannon.cs.illinois.edu/DenotationGraph/) and [MSCOCO](http://mscoco.org/). We will subsequently release the experimental pre-trained model for public access. We refer to the path of extracted files as `$DATASET_PATH`and the storage location of the pre-trained model as `$MODEL_PATH`.
+The experimental dataset can be downloaded from [Flickr30K](http://shannon.cs.illinois.edu/DenotationGraph/) and [MSCOCO](http://mscoco.org/). We will subsequently release the experimental pre-trained model for public access. We refer to the path of extracted files as `$DATASET_PATH` and the storage location of the pre-trained model as `$MODEL_PATH`.
 
 
 ## Evaluation
