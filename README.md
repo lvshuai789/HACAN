@@ -41,4 +41,3 @@ python run.py with data_root=`$DATASET_PATH` loss="GCD"
 Train on MSCOCO:
 python run.py with coco_config data_root=`$DATASET_PATH` loss="GCD"
 ```
-
